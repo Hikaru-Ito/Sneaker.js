@@ -1,0 +1,31 @@
+{
+  "name": "Sneaker.js",
+  "version": "0.1.0",
+  "authors": [
+    "Hikaru <hikaru.ito.1995@gmail.com>"
+  ],
+  "description": "Hybrid MobileApp Page Transition Framework",
+  "main": "js/sneaker.js",
+  "keywords": [
+    "mobile",
+    "cordova",
+    "transition",
+    "framework",
+    "jquery"
+  ],
+  "license": "MIT",
+  "homepage": "@Hikaru_Itou",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.3",
+    "monaca-viewport-js": "~1.0.0"
+    "fastclick": ""
+  }
+}

@@ -1,0 +1,1 @@
+!function(){var t=function(){$("body").on("touchstart touchend",".tap",a)},a=function(t){"touchstart"===t.type?$(this).addClass("tapStyle"):$(this).removeClass("tapStyle")};$(t)}(),$(function(){FastClick.attach(document.body)}),monaca.viewport({width:320});

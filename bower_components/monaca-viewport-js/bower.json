@@ -1,0 +1,25 @@
+{
+  "name": "monaca-viewport-js",
+  "version": "1.0.0",
+  "description": "Viewport library for Monaca",
+  "main": "monaca.viewport.js",
+  "keywords": [
+    "monaca",
+    "viewport"
+  ],
+  "authors": [
+    "Asial Corporation"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com:monaca/monaca.viewport.js.git"
+  },
+  "license": "Apache License, Version 2.0",
+  "homepage": "http://monaca.mobi",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "test",
+    "README.md"
+  ]
+}

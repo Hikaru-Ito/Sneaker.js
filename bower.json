@@ -20,10 +20,13 @@
     "node_modules",
     "bower_components",
     "test",
-    "tests"
+    "tests",
+    "README.md",
+    "gulpfile.js"
   ],
   "dependencies": {
     "jquery": "~2.1.3",
-    "monaca-viewport-js": "~1.0.0"
+    "monaca-viewport-js": "~1.0.0",
+    "fastclick": "latest"
   }
 }

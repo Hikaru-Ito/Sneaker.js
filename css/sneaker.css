@@ -14,7 +14,7 @@
 
 #sk_header {
   position: absolute;
-  background: #ff8778;
+  background: #3498db;
   height: 46px;
   line-height: 46px;
   width: 100%;
@@ -110,12 +110,3 @@
 .sk_page.close {
   -webkit-transform: translate3d(-480px, 0, 0); }
 
-.test-pushButton,
-.test-prevButton {
-  width: 92%;
-  line-height: 40px;
-  height: 40px;
-  text-align: center;
-  font-size: 12px;
-  border: 1px solid #ddd;
-  margin: 10px auto; }

@@ -1,5 +1,7 @@
 # Sneaker.js : HTML5 MobileApp Page Transition Framework
 
+[![Bower version](https://badge.fury.io/bo/Sneaker.js.svg)](http://badge.fury.io/bo/Sneaker.js)
+
 Sneaker.js is screen transition framework for making a simple HTML5 hybrid mobile apps.
 This is jQuery Plugin.(future independent)
 
